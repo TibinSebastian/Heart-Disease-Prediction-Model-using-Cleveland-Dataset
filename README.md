@@ -35,12 +35,12 @@ This project is a **Machine Learning model** developed to predict the likelihood
    ```bash
    git clone https://github.com/TibinSebastian/Heart-Disease-Prediction-Model-using-Cleveland-Dataset.git
    cd Heart-Disease-Prediction-Model-using-Cleveland-Dataset
-2. **Install dependencies''
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-3. **Run the model**
+3. **Run the Jupyter Notebook**
    ```bash
-   python heart_disease_prediction.py
+   jupyter notebook
    
 # Results
    - **Achieved 92% accuracy** in heart disease prediction.
